@@ -1,0 +1,4 @@
+Vas a  crear un proyecto de una calculadora funcional. 
+En semanas anteriores se pidió hacer el diseño pero ahora tendrás que hacer que funcione,
+es importante que el proyecto tenga su "package.json" con las dependencias que has usado.
+Esto tendrás que agregar a un nuevo repositorio con su readme.md, explicando lo que has hecho.
